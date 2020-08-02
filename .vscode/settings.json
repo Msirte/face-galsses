@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ziku.C": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "iosfwd": "cpp",
+        "xiosbase": "cpp",
+        "iostream": "cpp",
+        "fstream": "cpp"
+    }
+}
